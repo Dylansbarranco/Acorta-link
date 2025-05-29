@@ -1,0 +1,14 @@
+C:\Users\barra\AcortadorUrls\bin\Debug\net9.0\AcortadorUrls.exe
+C:\Users\barra\AcortadorUrls\bin\Debug\net9.0\AcortadorUrls.deps.json
+C:\Users\barra\AcortadorUrls\bin\Debug\net9.0\AcortadorUrls.runtimeconfig.json
+C:\Users\barra\AcortadorUrls\bin\Debug\net9.0\AcortadorUrls.dll
+C:\Users\barra\AcortadorUrls\bin\Debug\net9.0\AcortadorUrls.pdb
+C:\Users\barra\AcortadorUrls\obj\Debug\net9.0\AcortadorUrls.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barra\AcortadorUrls\obj\Debug\net9.0\AcortadorUrls.AssemblyInfoInputs.cache
+C:\Users\barra\AcortadorUrls\obj\Debug\net9.0\AcortadorUrls.AssemblyInfo.cs
+C:\Users\barra\AcortadorUrls\obj\Debug\net9.0\AcortadorUrls.csproj.CoreCompileInputs.cache
+C:\Users\barra\AcortadorUrls\obj\Debug\net9.0\AcortadorUrls.dll
+C:\Users\barra\AcortadorUrls\obj\Debug\net9.0\refint\AcortadorUrls.dll
+C:\Users\barra\AcortadorUrls\obj\Debug\net9.0\AcortadorUrls.pdb
+C:\Users\barra\AcortadorUrls\obj\Debug\net9.0\AcortadorUrls.genruntimeconfig.cache
+C:\Users\barra\AcortadorUrls\obj\Debug\net9.0\ref\AcortadorUrls.dll
