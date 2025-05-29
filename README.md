@@ -15,9 +15,13 @@ Este proyecto es una aplicación de consola desarrollada en C# que simula el fun
 
 AcortadorUrls/
 ├── Program.cs // Interfaz de usuario y menú principal
+
 ├── UrlShortener.cs // Lógica para generar códigos cortos aleatorios
+
 ├── UrlRepository.cs // Diccionario para almacenar código-URL
+
 ├── LEEME.txt // Este archivo de instrucciones
+
 ├── AcortadorUrls.csproj // Archivo de configuración del proyecto
 
 yaml
