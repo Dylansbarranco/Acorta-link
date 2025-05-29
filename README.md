@@ -24,9 +24,7 @@ AcortadorUrls/
 
 ├── AcortadorUrls.csproj // Archivo de configuración del proyecto
 
-yaml
-Copiar
-Editar
+
 
 ---
 
@@ -38,9 +36,6 @@ Editar
 
 dotnet run
 
-yaml
-Copiar
-Editar
 
 ---
 
@@ -57,11 +52,6 @@ Ver todos los enlaces
 
 Salir
 
-yaml
-Copiar
-Editar
-
----
 
 ## 🔒 Validaciones y consideraciones
 
