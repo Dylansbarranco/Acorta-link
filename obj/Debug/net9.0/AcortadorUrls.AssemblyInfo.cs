@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AcortadorUrls")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f1acf2f6e9aba09d866e7a1fbf31eba6ca7a4737")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7db67185956b1dacb2a36e3ea791a03528117f13")]
 [assembly: System.Reflection.AssemblyProductAttribute("AcortadorUrls")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AcortadorUrls")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
